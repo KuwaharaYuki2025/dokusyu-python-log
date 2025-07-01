@@ -1,4 +1,3 @@
-# �ƏKPython�i2020�N�Łj�w�K���O
-
-���̃��|�W�g���́w�ƏKPython�x���g����Python�̊�b���Ċw�K�����L�^�ł��B  
-��蕶�͊܂܂��A����R�[�h�ƃR�����g�݂̂��f�ڂ��Ă��܂��B
+# 独習Python（2020年版）学習ログ
+このリポジトリは『独習Python』を使ってPythonの基礎を再学習した記録です。
+問題文は含まず、自作コードとコメントのみを掲載しています。
