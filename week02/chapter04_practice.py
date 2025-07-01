@@ -53,7 +53,6 @@ print('合計',sum([i for i in data if i >= 0]),'です。')
 num = 20
 if 10 <= num < 50:
     print(num)
-"""
 #第3問
 while True:
     try:
@@ -63,7 +62,6 @@ while True:
         print('入力値エラーです。')
     else:
         break
-"""
 #第4問
 _sum = 0
 for i in range(100,201):
